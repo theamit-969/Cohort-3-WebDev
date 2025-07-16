@@ -13,4 +13,4 @@ function callback(){
 // setTimeoutPromisified(3000,).then(function callback(){    // Note - can  directly log in then() also  
 //     console.log("print after 3 seconds");
     
-// })t
+// })
